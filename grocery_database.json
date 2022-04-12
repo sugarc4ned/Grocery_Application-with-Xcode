@@ -1,0 +1,412 @@
+{
+  "Bakery" : {
+    "22" : "wrap",
+    "23" : "muffin",
+    "24" : "donut",
+    "25" : "cake",
+    "26" : "bread",
+    "bread" : {
+      "date import" : "21/3/2022",
+      "id" : 36,
+      "image_url" : "www",
+      "net_weight" : "400g",
+      "origin" : "malaysia",
+      "price" : 35,
+      "status" : "28/3/2022",
+      "stock" : 1000
+    },
+    "cake" : {
+      "date import" : "21/3/2022",
+      "id" : 35,
+      "image_url" : "www",
+      "net_weight" : "500g",
+      "origin" : "malaysia",
+      "price" : 35,
+      "status" : "28/3/2022",
+      "stock" : 1000
+    },
+    "donut" : {
+      "date import" : "21/3/2022",
+      "id" : 34,
+      "image_url" : "www",
+      "net_weight" : "6",
+      "origin" : "malaysia",
+      "price" : 5,
+      "status" : "28/3/2022",
+      "stock" : 1000
+    },
+    "muffin" : {
+      "date import" : "21/3/2022",
+      "id" : 33,
+      "image_url" : "www",
+      "net_weight" : "4",
+      "origin" : "malaysia",
+      "price" : 20,
+      "status" : "28/3/2022",
+      "stock" : 1000
+    },
+    "wrap" : {
+      "date import" : "21/3/2022",
+      "id" : 32,
+      "image_url" : "www",
+      "net_weight" : "500g",
+      "origin" : "malaysia",
+      "price" : 8,
+      "status" : "28/3/2022",
+      "stock" : 1000
+    }
+  },
+  "Beverage" : {
+    "27" : "soya",
+    "28" : "milk",
+    "29" : "cincau",
+    "30" : "apple_juice",
+    "31" : "100+",
+    "100+" : {
+      "date import" : "21/3/2022",
+      "id" : 31,
+      "image_url" : "www",
+      "net_weight" : "1.5 litre",
+      "origin" : "malaysia",
+      "price" : 3,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "apple_juice" : {
+      "date import" : "21/3/2022",
+      "id" : 30,
+      "image_url" : "www",
+      "net_weight" : "2 litre",
+      "origin" : "malaysia",
+      "price" : 8,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "cincau" : {
+      "date import" : "21/3/2022",
+      "id" : 29,
+      "image_url" : "www",
+      "net_weight" : "300ml",
+      "origin" : "malaysia",
+      "price" : 2,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "milk" : {
+      "date import" : "21/3/2022",
+      "id" : 28,
+      "image_url" : "www",
+      "net_weight" : "1 litre",
+      "origin" : "malaysia",
+      "price" : 6,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "soya" : {
+      "date import" : "21/3/2022",
+      "id" : 27,
+      "image_url" : "www",
+      "net_weight" : "1 litre",
+      "origin" : "malaysia",
+      "price" : 3,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    }
+  },
+  "Frozen_food" : {
+    "22" : "steamboat4in1",
+    "23" : "nugget",
+    "24" : "ice_cream",
+    "25" : "crab",
+    "26" : "Prawn",
+    "Prawn" : {
+      "date import" : "21/3/2022",
+      "id" : 26,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "malaysia",
+      "price" : 24,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "crab" : {
+      "date import" : "21/3/2022",
+      "id" : 25,
+      "image_url" : "www",
+      "net_weight" : "250g",
+      "origin" : "malaysia",
+      "price" : 4,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "ice_cream" : {
+      "date import" : "21/3/2022",
+      "id" : 24,
+      "image_url" : "www",
+      "net_weight" : "1.5kg",
+      "origin" : "malaysia",
+      "price" : 5,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "nugget" : {
+      "date import" : "21/3/2022",
+      "id" : 23,
+      "image_url" : "www",
+      "net_weight" : "850g",
+      "origin" : "malaysia",
+      "price" : 16,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "steamboat4in1" : {
+      "date import" : "21/3/2022",
+      "id" : 22,
+      "image_url" : "www",
+      "net_weight" : "500g",
+      "origin" : "malaysia",
+      "price" : 12,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    }
+  },
+  "Fruit" : {
+    "17" : "watermelon",
+    "18" : "papaya",
+    "19" : "orange",
+    "20" : "durian",
+    "21" : "apple",
+    "apple" : {
+      "date import" : "21/3/2022",
+      "id" : 21,
+      "image_url" : "www",
+      "net_weight" : "12",
+      "origin" : "malaysia",
+      "price" : 10,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "durian" : {
+      "date import" : "21/3/2022",
+      "id" : 20,
+      "image_url" : "www",
+      "net_weight" : "1",
+      "origin" : "malaysia",
+      "price" : 12,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "orange" : {
+      "date import" : "21/3/2022",
+      "id" : 19,
+      "image_url" : "www",
+      "net_weight" : "1",
+      "origin" : "malaysia",
+      "price" : 1,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "papaya" : {
+      "date import" : "21/3/2022",
+      "id" : 18,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "malaysia",
+      "price" : 4,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "watermelon" : {
+      "date import" : "21/3/2022",
+      "id" : 17,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "malaysia",
+      "price" : 2,
+      "status" : "4/5",
+      "stock" : 1000
+    }
+  },
+  "Meat" : {
+    "14" : "fish",
+    "15" : "chicken",
+    "16" : "beef",
+    "beef" : {
+      "date import" : "21/3/2022",
+      "id" : 16,
+      "image_url" : "www",
+      "net_weight" : "700g",
+      "origin" : "malaysia",
+      "price" : 8,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "chicken" : {
+      "date import" : "21/3/2022",
+      "id" : 15,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "malaysia",
+      "price" : 14,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "fish" : {
+      "date import" : "21/3/2022",
+      "id" : 14,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "malaysia",
+      "price" : 5,
+      "status" : "4/5",
+      "stock" : 1000
+    }
+  },
+  "Snack" : {
+    "9" : "twisties",
+    "10" : "sweet",
+    "11" : "jelly",
+    "12" : "chips",
+    "13" : "biscuit",
+    "biscuit" : {
+      "date import" : "21/3/2022",
+      "id" : 13,
+      "image_url" : "www",
+      "net_weight" : "163g",
+      "origin" : "malaysia",
+      "price" : 4,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "chips" : {
+      "date import" : "21/3/2022",
+      "id" : 12,
+      "image_url" : "www",
+      "net_weight" : "184g",
+      "origin" : "malaysia",
+      "price" : 13,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "jelly" : {
+      "date import" : "21/3/2022",
+      "id" : 11,
+      "image_url" : "www",
+      "net_weight" : "380g",
+      "origin" : "malaysia",
+      "price" : 10,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "sweet" : {
+      "date import" : "21/3/2022",
+      "id" : 10,
+      "image_url" : "www",
+      "net_weight" : "120g",
+      "origin" : "malaysia",
+      "price" : 1,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    },
+    "twisties" : {
+      "date import" : "21/3/2022",
+      "id" : 9,
+      "image_url" : "www",
+      "net_weight" : "80g",
+      "origin" : "malaysia",
+      "price" : 2,
+      "status" : "22/3/2023",
+      "stock" : 1000
+    }
+  },
+  "vegetable" : {
+    "8" : "potato",
+    "7" : "pak choi",
+    "6" : "india_potato",
+    "5" : "cucumbera",
+    "4" : "china_potato",
+    "3" : "china_cabbage",
+    "2" : "cabbage",
+    "1" : "broccolia",
+    "broccoli" : {
+      "date import" : "21/3/2022",
+      "id" : 8,
+      "image_url" : "https://firebasestorage.googleapis.com/v0/b/g4-database-387a0.appspot.com/o/1.jpg?alt=media&token=4c7f964b-00ff-4fad-9a1b-a21b98de2371",
+      "net_weight" : "1",
+      "origin" : "malaysia",
+      "price" : 5,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "cabbage" : {
+      "date import" : "21/3/2022",
+      "id" : 7,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "malaysia",
+      "price" : 4,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "china_cabbage" : {
+      "date import" : "21/3/2022",
+      "id" : 6,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "china",
+      "price" : 5,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "china_potato" : {
+      "date import" : "21/3/2022",
+      "id" : 5,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "china",
+      "price" : 4,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "cucumbera" : {
+      "date import" : "21/3/2022",
+      "id" : 4,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "malaysia",
+      "price" : 3,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "india_potato" : {
+      "date import" : "21/3/2022",
+      "id" : 3,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "india",
+      "price" : 2,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "pak choi" : {
+      "date import" : "21/3/2022",
+      "id" : 2,
+      "image_url" : "www",
+      "net_weight" : "200g",
+      "origin" : "malaysia",
+      "price" : 3,
+      "status" : "4/5",
+      "stock" : 1000
+    },
+    "potato" : {
+      "date import" : "21/3/2022",
+      "id" : 1,
+      "image_url" : "www",
+      "net_weight" : "1kg",
+      "origin" : "malaysia",
+      "price" : 2,
+      "status" : "4/5",
+      "stock" : 1000
+    }
+  }
+}
